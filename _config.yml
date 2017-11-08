@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            'Ziqing Qiu's Blog'
 tagline:          
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed 2.'
 url:              https://fongandrew.github.io/hydeout
 baseurl:          
                   # the optional subpath of your site, e.g. "/blog"
